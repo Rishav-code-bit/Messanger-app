@@ -1,0 +1,13 @@
+.message {
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    background-color: #f80606;
+    /* Set your desired background color */
+    border-radius: 8px;
+    /* Adjust the border radius as needed */
+    box-shadow: 0 2px 4px rgba(3, 245, 27, 0.1);
+    /* Add a subtle box shadow for depth */
+    display: inline-block;
+    /* Ensure the element behaves as an inline block */
+}
